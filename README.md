@@ -40,7 +40,7 @@ main()
 ## CLI
 ```bash
 # server:
-$ cat mydata.txt > jpfs
+$ cat mydata.txt | jpfs
 # outputs hash
 
 # client, on another machine:
