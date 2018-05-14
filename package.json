@@ -1,0 +1,23 @@
+{
+  "name": "jpfs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jpfs": "bin/cmd.js"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Judd Keppel <kepzorz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^1.6.2",
+    "peer-channel": "0.0.1"
+  }
+}
